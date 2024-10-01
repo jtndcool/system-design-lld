@@ -8,3 +8,4 @@ SOLID Principles
 
 
 
+![image](https://github.com/user-attachments/assets/4b503259-4c15-479e-a225-07ec96d25b32)
