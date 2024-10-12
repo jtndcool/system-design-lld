@@ -1,0 +1,10 @@
+1. Any guest can view and search questions by tag, username or words.
+2. Users should be able to post new questions and answers.
+3. Users can flag a question, answer or comment.
+4. User can upvote downvote any question, answer or comment.
+5. User can add bounty to question to draw attention.
+6. Moderators can close question or restore deleted questions. They can also delete answers.
+7. System should send notification when someone answers their asked question.
+8. Users can earn badges for their helpful answers.
+9. system should indentify most frequently used tags in question.
+10. user can add tag to their question.
