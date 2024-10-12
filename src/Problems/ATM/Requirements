@@ -1,0 +1,9 @@
+Requirements and Assumptions:
+
+
+Valid user can withdrawal, view account info/balance, deposit amount from ATM using debit/credit card using 4 digit pin
+Limit of 10000 rupees at a time
+Total amount of 1000000 rupees available inside ATM as initial amount
+message to be displayed after end of any transaction
+card should be returned when user exits the ATM
+

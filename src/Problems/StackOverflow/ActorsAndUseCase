@@ -1,0 +1,16 @@
+Actors:
+
+Admin
+Guest
+User(Registered)
+System
+Moderator
+
+Use Cases:
+1. Search Questions
+2. Post answer
+3. Create questions (with bounty)
+4. Add comments
+5. Flag Comments, Questions, Answers
+6. Close, delete, and restore question
+
